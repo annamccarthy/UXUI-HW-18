@@ -18,10 +18,12 @@ h3 {
 body {
     font-family: 'Sen', sans-serif;
     background-color: #DEF6F3;
-    background-image: url(../images/wave.png);
-    background-repeat: repeat-y;
-    background-position: 0x -100px;
+}
 
+body.home {
+    background-image: url(../images/wave.png), url(../images/wave2.png);
+    background-repeat: no-repeat;
+    background-position: -100px top, -300px 300px;
 }
 
 a {
