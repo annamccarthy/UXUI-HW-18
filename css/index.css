@@ -188,8 +188,6 @@ ul {
 
 .myWork {
     background-color: #ffffff;
-    width: 100%;
-    height: 850px;
     padding-top: 80px;
     padding-left: 0px;
     padding-right: 0px;
@@ -252,7 +250,6 @@ ul {
 }
 
 p {
-    font-family: 'Karla', sans-serif;
     vertical-align: baseline;
     font-size: 18px;
 
